@@ -1,0 +1,34 @@
+Welcome to our CSC309 Project :)
+
+Please open the project P3 folder in the VM through VSCode.
+
+Open two different terminals in VS Code.
+
+In the first terminal, run startup.sh, followed by run-be.sh.
+
+In the second terminal, run run-fe.sh.
+
+LOGINS:
+EMAIL         PASS
+
+TA1@ta.com     1
+TA2@ta.com     2
+TA3@ta.com     3
+TA4@ta.com     4
+TA5@ta.com     5
+TA6@ta.com     6
+TA7@ta.com     7
+TA8@ta.com     8
+TA9@ta.com     9
+TA10@ta.com    10
+TA11@ta.com    11
+TA12@ta.com    12
+TA13@ta.com    13
+TA14@ta.com    14
+TA15@ta.com    15
+TA16@ta.com    16
+TA17@ta.com    17
+TA18@ta.com    18
+TA19@ta.com    19
+TA20@ta.com    20
+TA21@ta.com    21

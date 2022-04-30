@@ -1,0 +1,6 @@
+venv/
+db.sqlite3
+*.DS_Store
+Backend/restaurant/__pycache__/
+Backend/restaurant/__pycache__/
+**/__pycache__/
